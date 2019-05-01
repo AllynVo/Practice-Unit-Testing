@@ -8,3 +8,5 @@
 1. Must contain one of these special characters: **~!@#$%^&*()_+**
   
   
+![GitHub Logo](Pass.png)
+Format: ![Alt Text](url)
