@@ -5,7 +5,6 @@
 1. Must contain at least one lower case letter
 1. Must contain at least one upper case letter
 1. Must contain one digit
-1. Must contain one of these special characters
-  * ~!@#$%^&*()_+
+1. Must contain one of these special characters: **~!@#$%^&*()_+**
   
   
