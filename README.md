@@ -7,6 +7,9 @@
 1. Must contain one digit
 1. Must contain one of these special characters: **~!@#$%^&*()_+**
   
-  
-![GitHub Logo](Pass.png)
-Format: ![Alt Text](url)
+ ### Tests expected to pass
+![Expected Pass](Pass.png)
+
+ ### Tests expected to fail
+![Expected Fail](Fail.png)
+
